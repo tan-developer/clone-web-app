@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'themewar';
-  src:  url('/frontend/fonts/themewar.eot?4vuimy');
-  src:  url('/frontend/fonts/themewar.eot?4vuimy#iefix') format('embedded-opentype'),
-    url('/frontend/fonts/themewar.ttf?4vuimy') format('truetype'),
-    url('/frontend/fonts/themewar.woff?4vuimy') format('woff'),
-    url('/frontend/fonts/themewar.svg?4vuimy#themewar') format('svg');
+  src:  url('../fonts/themewar.eot?4vuimy');
+  src:  url('../fonts/themewar.eot?4vuimy#iefix') format('embedded-opentype'),
+    url('../fonts/themewar.ttf?4vuimy') format('truetype'),
+    url('../fonts/themewar.woff?4vuimy') format('woff'),
+    url('../fonts/themewar.svg?4vuimy#themewar') format('svg');
   font-weight: normal;
   font-style: normal;
 }

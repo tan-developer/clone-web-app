@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dgita-icon';
-  src:  url('/frontend/fonts/dgita-icon.eot?7nqewb');
-  src:  url('/frontend/fonts/dgita-icon.eot?7nqewb#iefix') format('embedded-opentype'),
-    url('/frontend/fonts/dgita-icon.ttf?7nqewb') format('truetype'),
-    url('/fonts/dgita-icon.woff?7nqewb') format('woff'),
-    url('/fonts/dgita-icon.svg?7nqewb#dgita-icon') format('svg');
+  src:  url('../fonts/dgita-icon.eot?7nqewb');
+  src:  url('../fonts/dgita-icon.eot?7nqewb#iefix') format('embedded-opentype'),
+    url('../fonts/dgita-icon.ttf?7nqewb') format('truetype'),
+    url('../fonts/dgita-icon.woff?7nqewb') format('woff'),
+    url('../fonts/dgita-icon.svg?7nqewb#dgita-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
